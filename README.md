@@ -13,3 +13,6 @@ all about localroot which was successfully tested :)
 
 # <a href="https://beruangsalju.github.io/overlayfs">CVE-2021-3493 - OverlayFS Local Privesc</a>
 <img src="https://i.ibb.co/r39fDGT/photo-2023-03-16-09-43-06.jpg" alt="beruangsalju profile">
+
+# <a href="https://beruangsalju.github.io/exp_file_credential">CVE-2022-2588 - DirtyCred</a>
+<img src="https://i.ibb.co/gb1b8Fx/photo-2023-03-16-09-48-53.jpg" alt="beruangsalju profile">
