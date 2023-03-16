@@ -16,3 +16,6 @@ all about localroot which was successfully tested :)
 
 # <a href="https://beruangsalju.github.io/exp_file_credential">CVE-2022-2588 - DirtyCred</a>
 <img src="https://i.ibb.co/gb1b8Fx/photo-2023-03-16-09-48-53.jpg" alt="beruangsalju profile">
+
+# <a href="https://beruangsalju.github.io/exploit.sh">CVE-2023-22809 - sudoedit-privesc</a>
+<img src="https://i.ibb.co/bXbR3T7/photo-2023-03-16-09-51-52.jpg" alt="beruangsalju profile">
