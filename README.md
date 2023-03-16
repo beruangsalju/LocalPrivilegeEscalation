@@ -1,4 +1,4 @@
-# LocalPrivelegeEscalation
+# LocalPrivelegeEscalation [![Linux Badge](https://img.shields.io/badge/Linux-black?style=flat&logo=linux&link=https://www.linux.org)](https://www.linux.org) 
 all about localroot which was successfully tested :)
 
 
