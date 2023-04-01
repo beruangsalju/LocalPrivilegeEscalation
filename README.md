@@ -1,4 +1,4 @@
-# LocalPrivelegeEscalation [![Linux Badge](https://img.shields.io/badge/Linux-black?style=flat&logo=linux&link=https://www.linux.org)](https://www.linux.org) [![Ubuntu Badge](https://img.shields.io/badge/Ubuntu-black?style=flat&logo=ubuntu&link=https://ubuntu.com)](https://ubuntu.com) [![Debian Badge](https://img.shields.io/badge/Debian-black?style=flat&logo=debian&link=https://www.debian.org)](https://www.debian.org)
+# LocalPrivilegeEscalation [![Linux Badge](https://img.shields.io/badge/Linux-black?style=flat&logo=linux&link=https://www.linux.org)](https://www.linux.org) [![Ubuntu Badge](https://img.shields.io/badge/Ubuntu-black?style=flat&logo=ubuntu&link=https://ubuntu.com)](https://ubuntu.com) [![Debian Badge](https://img.shields.io/badge/Debian-black?style=flat&logo=debian&link=https://www.debian.org)](https://www.debian.org)
 all about localroot which was successfully tested :)
 
 
