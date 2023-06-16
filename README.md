@@ -1,3 +1,6 @@
+<div align="center">
+	<h1><img width="80%" src="https://readme-typing-svg.herokuapp.com?duration=03&font=Lalezar&size=30&color=008080&center=true&vCenter=true&width=440&lines=+Linux+Privilege+Escalation+" /></h1>
+  <br />
 <p align="center">
 <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/beruangsalju/LocalPrivilegeEscalation?color=black&style=flat">
 <img src="https://img.shields.io/github/forks/beruangsalju/LocalPrivilegeEscalation?color=black&style=flat">
