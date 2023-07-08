@@ -28,3 +28,6 @@ all about localroot which was successfully tested :)
 
 # <a href="https://beruangsalju.github.io/exploit.sh">CVE-2023-22809 - sudoedit-privesc</a>
 <img src="https://i.ibb.co/bXbR3T7/photo-2023-03-16-09-51-52.jpg" alt="beruangsalju profile">
+
+# <a href="https://beruangsalju.github.io/traitor">traitor</a>
+<img src="https://i.imgur.com/KRedKhP.png" alt="beruangsalju profile">
